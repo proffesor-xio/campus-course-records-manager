@@ -1,0 +1,44 @@
+# Java compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Eclipse / VS Code / IntelliJ files
+.settings/
+.project
+.classpath
+.vscode/
+.idea/
+
+# Build directories
+bin/
+out/
+target/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Exports and backups (auto-generated at runtime)
+exports/
+
+# Test-data — optional ignore if you want to keep CSV test files in repo
+# test-data/
+
+# Ignore compiled scripts
+*.exe
+*.dll
+
+# Ignore generated screenshots (optional if you want to store them)
+# screenshots/
+
+# Ignore .gitkeep files so they don’t show in repo view
+.gitkeep
+
+
