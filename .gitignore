@@ -37,8 +37,3 @@ exports/
 
 # Ignore generated screenshots (optional if you want to store them)
 # screenshots/
-
-# Ignore .gitkeep files so they don’t show in repo view
-.gitkeep
-
-
