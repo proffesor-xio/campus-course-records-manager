@@ -53,7 +53,7 @@ The main goal of CCRM is to allow administrators to:
 ---
 
 ## 🗂 Project Folder Structure
-
+```
 CCRM/                         # Root of repo
 │
 ├─ README.md                  # Main project report (mandatory)
@@ -119,7 +119,7 @@ CCRM/                         # Root of repo
         ├─ students_export.csv
         ├─ courses_export.csv
         └─ enrollments_export.csv
-
+```
 ---
 
 ## 🛠 Technologies Used
